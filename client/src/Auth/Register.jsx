@@ -36,24 +36,24 @@ const Register = () => {
               id="email"
               name="email"
               placeholder='Email'
-              class='w-full text-black p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
+              class='w-full bg-[#E8F0FE] text-black p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
             />
             <input
               type="password"
               id="password"
               name="password"
               placeholder='Password'
-              class='w-full text-black p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
+              class='w-full text-black bg-[#E8F0FE] p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
             />
             <input
               type="password"
               id="confirmPassword"
               name="confirmPassword"
               placeholder='Confirm Password'
-              class='w-full text-black p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
+              class='w-full text-black bg-[#E8F0FE] p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none'
             />
-            <select id="role" name="role" class="w-full text-black p-2 py-2 my-2 bg-none border-black outline-none focus:outline-none">
-              <option value="" disabled selected>Select Role</option>
+            <select id="role" name="role" class="w-full text-black p-2 py-2 my-2 bg-none border-black bg-[#E8F0FE] outline-none focus:outline-none">
+              <option className='text-black' value="" disabled selected>Select Role</option>
               <option value="client">Client</option>
               <option value="user">User</option>
             </select>
