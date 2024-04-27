@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
-
+ //building responsive Registerpage
 const Register = () => {
 
    const redirectToLogin = () => {
