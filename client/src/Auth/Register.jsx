@@ -4,11 +4,11 @@ import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 const Register = () => {
 
    const redirectToLogin = () => {
-      // logic to redirect to the login page
+      
    };
 
    const registerUser = () => {
-      // logic to register the user
+     
    };
 
    return (
