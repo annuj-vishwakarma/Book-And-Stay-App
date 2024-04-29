@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
 const login = () => {
-  //building responsive login layout
+ 
   return (
     <div class='lg:flex lg:items-start'>
     <div class='hidden lg:block w-1/2 h-screen relative'>
