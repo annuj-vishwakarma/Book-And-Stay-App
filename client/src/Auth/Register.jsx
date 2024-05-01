@@ -26,7 +26,7 @@ const Register = () => {
       <div class='w-full flex flex-col'>
         <div class='w-full flex flex-col mb-5 lg:mb-10'>
           <h3 class='text-2xl lg:text-3xl font-semibold mb-2 lg:mb-4'>Create Account</h3>
-          <p class='text-base lg:text-lg mb-2'>Please fill in your information to register.</p>
+          <p class='text-base lg:text-lg mb-2'>Please fill your information to register.</p>
         </div>
   
         <form id="registerForm">
