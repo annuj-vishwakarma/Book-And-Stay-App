@@ -17,7 +17,7 @@ const login = () => {
       <div class='w-full flex flex-col'>
         <div class='w-full flex flex-col mb-5 lg:mb-10'>
           <h3 class='text-2xl lg:text-3xl font-semibold mb-2 pt-6'>Login</h3>
-          <p class='text-base  -mb-6'>Welcome back! Please enter your details.</p>
+          <p class='text-base  -mb-6'>Welcome back! Please enter your profile details.</p>
         </div>
   
         <div class='w-full flex flex-col '>
